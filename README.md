@@ -23,4 +23,4 @@ Analisar indicadores de desempenho por meio de visualizações.
 Os dados utilizados são fictícios e têm finalidade educacional.
 
 ## 🖼️ Preview do Dashboard
-![Painel](imagens/imagensdashboard.png)
+![Painel](https://raw.githubusercontent.com/Gabrielle-Correa/bi/main/imagens/imagensdashboard.png)
